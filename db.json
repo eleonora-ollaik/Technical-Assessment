@@ -1,0 +1,115 @@
+{
+  "symbols": [
+    {
+      "id": 1,
+      "symbol": "AAB: Aberdeen International Inc"
+     
+    },
+    {
+      "id": 2,
+      "symbol": "AAV: Advantage Oil & Gas Ltd"
+    
+    },
+    {
+      "id": 3,
+      "symbol": "ABST: Absolute Software Corporation"
+      
+    },
+    {
+      "id": 4,
+      "symbol": "ABX: Barrick Gold Corp"
+      
+    },
+    {
+      "id": 5,
+      "symbol": "AC: Air Canada"
+      
+    },
+    {
+      "id": 6,
+      "symbol": "ACB: Aurora Cannabis Inc"
+      
+    },
+    {
+      "id": 7,
+      "symbol": "ADW.A: Andrew Peller Limited Cl.A"
+      
+    },
+    {
+      "id": 8,
+      "symbol": "BBD.A: Bombardier Inc Cl A Mv"
+      
+    },
+    {
+      "id": 9,
+      "symbol": "CRWN: Crown Capital Partners Inc"
+      
+    },
+    {
+      "id":10,
+      "symbol": "DANC: Desjardins Lng Shrt Eqty Mkt Ntrl ETF"
+      
+    }
+  ],
+  "socialmedia": [
+    {
+      "id": 1,
+      "name": "Twitter"
+    },
+    {
+      "id": 2,
+      "name": "LinkedIn"
+    },
+    {
+      "id": 3,
+      "name": "Instagram"
+    },
+    {
+      "id": 4,
+      "name": "Facebook"
+    },
+    {
+      "id": 5,
+      "name": "Youtube"
+    },
+    {
+      "id": 6,
+      "name": "Snapchat"
+    },
+    {
+      "id": 7,
+      "name": "TikTok"
+    }
+  ],
+  "entries": [
+    {
+      "id": 1,
+      "symbol": "AAV",
+      "socialMedia": "Twitter",
+      "posts": 7,
+      "prices": [
+        {
+          "price": 5.99,
+          "date": "2020-11-13"
+        }
+      ]
+    },
+    [
+      {
+        "symbol": "AAV",
+        "socialMedia": "Twitter",
+        "posts": 12,
+        "prices": [
+          {
+            "price": 5.99,
+            "date": "2020-11-13"
+          },
+          {
+            "price": 8.99,
+            "date": "2020-11-14"
+          }
+        ]
+      }
+    ]
+  ]
+}

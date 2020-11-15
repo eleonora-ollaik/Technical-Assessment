@@ -1,0 +1,65 @@
+.mainFormContainer {
+    margin: auto;
+    margin-top: 10vh;
+    width: 60%;
+    border-radius: 1em;
+    color: rgb(17, 37, 58);
+    min-height: 200vh;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.message {
+  border: 2px solid #008CBA;
+  border-radius: 1em;
+  margin-bottom: 2em;
+  padding: 1em;
+}
+
+.row{
+  flex-direction: column
+}
+
+.label-input {
+  flex-direction: row;
+
+  display: inline-block;
+  margin: 0.5em 0.5em;
+  width: 300px;
+  max-width: 520px;
+  margin: 0 0 0 0;
+  padding: 10px;
+
+}
+
+ select, input[type='text'] {
+  box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    width: 280px;
+    padding: 1em 1.563em;
+    margin: 0.5em 0.5em;
+
+    border: 1px solid #ccc;
+    border-radius: 0.25em;
+    box-sizing: border-box;
+  }
+   label{
+    width: 250px;
+    height: 39px;
+}
+  button {
+    font-family: 'Raleway', sans-serif;
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+    font-size: 16px;
+    margin: 5px 20px 0 0;
+    padding: 12px 32px;
+    text-align: center;
+    border-radius: 8px;
+    width: 12em;
+  }
+  button:hover {
+    background-color: #008CBA;
+    color: white;
+  }

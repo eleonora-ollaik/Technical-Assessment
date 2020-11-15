@@ -1,0 +1,12 @@
+.appHeader {
+    background-color: #213d5c;
+    font-size: 4rem;
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    justify-content: space-between;
+    height: 100px;
+
+}
